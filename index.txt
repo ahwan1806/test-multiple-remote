@@ -2,3 +2,4 @@ test file
 test commit
 test branch
 test rebase
+test rebase commit 2
